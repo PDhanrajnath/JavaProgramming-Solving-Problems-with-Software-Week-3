@@ -49,11 +49,14 @@ public class Assignment {
     public void tester() {
         FileResource fr = new FileResource();
         CSVParser parser = fr.getCSVParser();
-        System.out.println(countryInfo(parser, "germany"));
+        System.out.println(countryInfo(parser, "Nauru"));
+        System.out.println();
         parser = fr.getCSVParser();
         listExportersTwoProducts(parser, "gold", "diamonds");
+        System.out.println();
         parser = fr.getCSVParser();
-        System.out.println(numberOfExporters(parser, "gold"));
+        System.out.println(numberOfExporters(parser, "sugar"));
+        System.out.println();
         parser = fr.getCSVParser();
         bigExporters(parser, "$999,999,999");
     }
