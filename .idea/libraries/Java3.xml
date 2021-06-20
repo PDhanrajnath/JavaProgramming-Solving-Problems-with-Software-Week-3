@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Java3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hottestTempMany.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hottestTempManyRefactored.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hottestTemp.zip!/" />
+      <root url="jar://$PROJECT_DIR$/firstCSV.zip!/" />
+      <root url="jar://$PROJECT_DIR$/nc_weather.zip!/" />
+      <root url="jar://$PROJECT_DIR$/exports.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hottestTempPseudo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/exportsPseudo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
