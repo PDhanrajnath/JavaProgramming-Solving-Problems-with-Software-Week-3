@@ -1,0 +1,33 @@
+
+c
+java:S1192"HDefine a constant instead of duplicating this literal "Country" 3 times.(‰¥Œ®ýÿÿÿÿ
+c
+java:S1192
+"HDefine a constant instead of duplicating this literal "Exports" 3 times.(‚…í¯üÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+t
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(£”àÊ
+V	java:S125"<This block of commented-out lines of code should be removed.(«¬Âüúÿÿÿÿ
+P
+java:S6213":Rename this variable to not match a restricted identifier.(Õ÷ 
+P
+java:S6213":Rename this variable to not match a restricted identifier.(Õ÷ 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Áº„™úÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(ÁÎúä
+P
+java:S6213":Rename this variable to not match a restricted identifier.(Õ÷ 
+P
+java:S6213(":Rename this variable to not match a restricted identifier.(Õ÷ 
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(àÎÔ®
+J
+java:S62122"/Declare this local variable with "var" instead.(õ¯¾µúÿÿÿÿ
+D
+java:S62123"/Declare this local variable with "var" instead.(æ““
+
+M	java:S1064"9Replace this use of System.out or System.err by a logger.(Õ°šq
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(Ííƒ³üÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
